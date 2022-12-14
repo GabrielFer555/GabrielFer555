@@ -1,6 +1,6 @@
 - 👋 Olá, tudo bem? Meu nome é Gabriel Fernandes 
 - 👀 Estou atualmente estudando Java e pretendo me tornar um dev back-end
-- :uk:Falo Inglês (C2)
+- :uk: Falo Inglês (C2)
 .
 
 <!---
