@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 # Conhecimentos
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Java" height="80" width"90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
+  <img align="center" alt="Gabriel-Java" height="250" width"140" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"
 </div>
                                                                     
      
