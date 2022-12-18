@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 # Conhecimentos
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabiana-Java" height="30" width"40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg%22%3E](https://cdn-icons-png.flaticon.com/512/3291/3291669.png)"
+  <img align="center" alt="Gabriel-Java" height="30" width"40" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"
 </div>
                                                                     
      
