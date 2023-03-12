@@ -19,10 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 # Conhecimentos
 <div style="display: inline_block"><br>
-  <a href="https://github.com/GabrielFer555?tab=repositories"><img align="center" alt="Gabriel-Java" height="120" width"70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"</a>
-</div>
-<div style="display: inline_block"><br>
-  <a href="https://github.com/GabrielFer555?tab=repositories"><img align="left" alt="Gabriel-Java" height="120" width"70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt ="Error"</a>
+  <a href="https://github.com/GabrielFer555?tab=repositories"><img align="center" alt="Gabriel-Java" height="120" width"70"   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"</a>
+    <a href="https://github.com/GabrielFer555?tab=repositories"><img align="left" alt="Gabriel-Java" height="120" width"70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt ="Error"</a>
 </div>
                                                                     
      
