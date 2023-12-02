@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 <a href = "mailto:          * (kaiberimanos3@gmail.com)*       "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-fernandes-02846b242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-# Conhecimentos
+
+# Conhecimentos  
+
 <div style="display: inline_block"><br>
    <a href="https://github.com/GabrielFer555?tab=repositories"><img align="center" alt="Gabriel-Java" height="120" width"70"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"</a>
    <a href="https://github.com/GabrielFer555?tab=repositories"><img align="center" alt="Gabriel-Java" height="120" width"70"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"</a>
