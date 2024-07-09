@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h2>Conhecimentos:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,react,nodejs,postgres)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,postgres,java)](https://skillicons.dev)  
 </div>
                                                                     
      
