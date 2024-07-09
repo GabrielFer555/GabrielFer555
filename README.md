@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 <a href = "mailto:          * (kaiberimanos3@gmail.com)*       "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-fernandes-02846b242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<h2>Conhecimentos:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,react,postgres)](https://skillicons.dev)  
 </div>
                                                                     
      
