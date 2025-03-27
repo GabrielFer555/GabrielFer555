@@ -1,5 +1,5 @@
 - 👋 Olá, tudo bem? Meu nome é Gabriel Fernandes 
-- 👀 Estou atualmente estudando Desenvolvimento Web e pretendo me tornar um Desenvolvedor Front-end/Full-Stack
+- 👀 Back-end Developer
 - 🌏 Falo Inglês (C2)
 .
 
